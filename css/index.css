@@ -1,0 +1,759 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+}
+.navbar{
+    height: 80px;
+    color: maroon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline: 25px;
+}
+.logo{
+    background-image: url("2.svg");
+    height: 50px;
+    width: 80px;
+    background-size: cover;
+}
+.nav-logo{
+    height: 50px;
+    width: 80px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 20px;
+}
+.search{
+    width: 500px;
+    font-size: 0.85rem;
+    border: none;
+}
+.logo1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.logo1 i{
+    font-size: 20px;
+    margin: 5px;
+    margin-top: 20px;
+
+}
+.nav2{
+    background-color: whitesmoke;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:120px
+    
+}
+    
+.image1{
+    background-image: url("j.webp");
+    background-size: cover;
+    width: 2000px;
+    height: 700px;
+}
+.header{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header1{
+    margin-top: 10px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image4{
+     margin-top: 5px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    color: rgb(26, 1, 1);
+}
+.header1{
+    color: gray;
+    text-size-adjust: 10px;
+}
+.class1{
+    background-image: url("3.webp");
+    height: 800px;
+    width: 700px;
+    background-size: cover;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.class2{
+    background-image: url("4\ copy.webp");
+    height: 400px;
+    width: 700px;
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+.class3{
+    background-image: url("5.webp");
+     height: 350px;
+    width: 700px;
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+
+.class6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.class6 h1{
+    font-size: 2rem;
+}
+.class7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.class7 p{
+    color: gray;
+    font-size: 1.5rem;
+}
+.class8{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+ .class9{
+    background-image: url("6.webp");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    border-radius: 15px;
+ }
+ .class10{
+     background-image: url("7.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class11{
+     background-image: url("8.webp");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class12{
+     background-image: url("11.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class13{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30PX;
+    gap: 250PX;
+ }
+ .class14{
+     background-image: url("15.webp");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 10px;
+    border-radius: 15px;
+ }
+ .class15{
+     background-image: url("13.webp");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class16{
+     background-image: url("14.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class17{
+     background-image: url("18.webp");
+    background-size: cover;
+    height: 350px;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class18{
+     background-image: url("19.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class19{
+     background-image: url("20.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class20{
+     background-image: url("21.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class21{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30PX;
+    gap: 350PX
+ }
+ .class21 p {
+    font-size: 1rem;
+    
+ }
+  .class22{
+     background-image: url("22.webp");
+    background-size: cover;
+    height: 450px;
+    width: 650px;
+    margin-left: 50px;
+    border-radius: 15px;
+  }
+   .class23{
+     background-image: url("23.webp");
+    background-size: cover;
+    height: 450px;
+    width: 650px;
+    margin-left: 50px;
+    border-radius: 15px;
+   }
+.class24{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.class25{
+      background-image: url("24.webp");
+    background-size: cover;
+    height: 450px;
+    width: 650px;
+    margin-left:50px;
+    border-radius: 15px;
+}
+.class26{
+     background-image: url("25.webp");
+    background-size: cover;
+    height: 450px;
+    width: 650px;
+    margin-left: 50px;
+    border-radius: 15px; 
+}
+.class22 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 400px;    
+}
+.class23 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 400px;    
+}.class24 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 400px;
+}
+.class25 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 400px;
+}
+.class27{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+
+}
+.class28{
+    background-image: url(26.webp);
+    background-size: cover;
+    width: 2000px;
+    height: 400px;
+}
+.class29{
+   background-image: url("27.webp");
+    background-size: cover;
+    height: 400px;
+    width: 700px;
+    margin-left:50px;
+    border-radius: 15px;
+    
+   }
+.class30{
+    background-image: url("28.webp");
+    background-size: cover;
+    height: 400px;
+    width: 700px;
+    margin-left:50px;
+    border-radius: 15px;
+}
+.class31{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.class29 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 350px;
+    margin-right:450px ;
+}
+.class30 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 350px;
+    margin-right: 500px;
+}
+.class28 h1{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 50px;
+    margin-right: 1200px;
+    font-size: 3rem;
+}
+.class28 p{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 10px;
+    margin-right: 1110px;
+}
+.class32{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    margin-top: 10px;
+}
+.class33{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+.class37{
+    margin-top: 80px;
+}
+.class33 p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-size: 1.50rem;
+    margin-right: 450px;
+   
+}
+.class34{
+    background-image:url(33.svg) ;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    margin-left: 130px;
+}
+
+.class35{
+    background-image:url(34\ copy.svg) ;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    margin-left: 130px;
+}
+
+.class36{
+    background-image:url(35\ copy.svg) ;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    margin-left: 130px;
+}
+.class33 h1{
+    margin-right: 400px;
+    font-size: 4rem;
+}
+.class34 h1{
+    font-size: 1rem;
+    color:rgb(39, 2, 2);
+    margin-top: 100px;
+    margin-left: 25px;
+    
+}
+.class34 p{
+    font-size: 1rem;
+    color: rgb(20, 2, 2);
+    margin-left: 50px;
+}
+.class35 h1{
+    font-size: 1rem;
+    color:rgb(39, 2, 2);
+    margin-top: 100px;
+    margin-left: 25px;
+    
+}
+.class35 p{
+    font-size: 1rem;
+    color: rgb(20, 2, 2);
+    margin-left: 60px;
+}
+.class36 h1{
+    font-size: 1rem;
+    color:rgb(39, 2, 2);
+    margin-top: 100px;
+    margin-left: 30px;
+    
+}
+.class36 p{
+    font-size: 1rem;
+    color: rgb(20, 2, 2);
+       margin-left: 50px;
+}
+.class37{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 220px;
+    font-size: 1.20rem;
+}
+.class39 {
+    height: 50px;
+    width: 50px;
+}
+.class38 {
+    margin-top: 70px;
+}
+.class39 {
+    width: 100%;
+    height: 50%;
+}
+.class40{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.class41{ 
+    background-image: url("38.svg");
+    width: 50px;
+    height: 40px;
+    background-size: cover;
+}
+.class42{ 
+    background-image: url("38.svg");
+    width: 50px;
+    height: 40px;
+    background-size: cover;
+}
+.class43{
+    color: gray;
+    font-size: 1.30rem;
+    font-style: italic;
+}
+.class44{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 230px;
+}
+.class45 {
+    background-image: url("39.svg");
+    height: 110px;
+    width: 110px;
+    background-size: cover;
+
+}
+.class46 {
+    background-image: url("43.svg");
+    height: 85px;
+    width: 110px;
+    background-size: cover;
+    object-fit: fill;
+
+}
+.class47 {
+    background-image: url("41.svg");
+    height: 110px;
+    width: 110px;
+    background-size: cover;
+
+}
+.class48 {
+    background-image: url("42.svg");
+    height: 110px;
+    width: 110px;
+    background-size: cover;
+
+}
+.class45 h3{
+    margin-top:120px ;
+    font-size: medium;
+    margin-left: 30px;
+}
+.class46 h3{
+    margin-top:120px ;
+    margin-left: 10px;
+    font-size: medium;
+}
+.class47 h3{
+    margin-top:120px ;
+    font-size: medium;
+    margin-left: 20px;
+}
+.class48 h3{
+    margin-top:120px ;
+    margin-left: 30px;
+    font-size: medium;
+}
+.class49{
+     background-image: url("44.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class50{
+     background-image: url("45.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class51{
+     background-image: url("47.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class52{
+     background-image: url("48.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class53{
+     background-image: url("49.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class54{
+     background-image: url("50.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class55{
+     background-image: url("51.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class56{
+     background-image: url("56.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+  .class57{
+     background-image: url("57.webp");
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 15px;
+ }
+ .class58{
+    background-color: rgb(65, 3, 3);
+    height: 350px;
+    margin-top: 70px;
+    justify-content: center;
+    display: flex;
+    gap: 60px;
+    color: white;
+    line-height: 40px;
+ }
+ .class59{
+    margin-top: 60px;
+ }
+ .class60{
+     margin-top: 60px;
+ }
+ .class61{
+    margin-top: 60px;
+ }
+ .class61 i{
+      margin: 15px;
+      font-size: 25px;
+ }
+.class62{
+    background-image: url("tanish_img-removebg-preview.png");
+    background-size: cover;
+    width: 600px;
+    height: 600px;
+    margin-right: 130px;
+    margin-top: -100px;
+}
+.class64{
+    background-color: rgb(65, 3, 3);
+    height: 300px;
+}
+.class65{
+    background-image:url("58.svg");
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    margin-left: 320px;
+    margin-top: -30px;
+}
+.class66{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 45%;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-left: 950px;
+    margin-top: -200px;
+}
+.class68{
+    color: white;
+    margin-left: 950px;
+    width:45% ;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-top: 70px;
+    
+}
+
+.class69{
+   width: 45%;
+   border: none;
+   border-bottom: 1px solid white;
+   margin-top: 70px;
+   margin-left: 950px;
+}
+.class70 i{
+    color: white;
+    font-size: 25px;
+    margin: 9px;
+}
+.class71 i {
+    color: white;
+    font-size: 25px;
+    margin: 9px;
+}
+.class72{
+    background-color: rgb(65, 3, 3);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.class73{
+    margin-right: 1000px;
+    margin-top: -60px;
+}
+.class73 i{
+    color: white;
+    font-size: 50px;
+    margin: 25px;
+}
+.class75{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     margin-top: -50px;
+    margin-left: 1000px;
+    color: white;
+    font-size: 15px;
+}
